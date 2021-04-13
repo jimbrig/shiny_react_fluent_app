@@ -20,3 +20,5 @@ interfaces which use a combination of
 [AdminLTE](https://adminlte.io/) UI HTML templates, this app is designed
 using [React](https://reactjs.org/) components and Microsoft’s [Fluent
 UI](https://developer.microsoft.com/en-us/fluentui#/controls) framework.
+
+![image](https://user-images.githubusercontent.com/32652297/114620643-c7ae5900-9c79-11eb-93d9-e85db611a793.png)
