@@ -1,7 +1,8 @@
 repo_name: jimbrig/shiny_react_fluent_app
 report_id: 348e6e4036a054ee9709a51083b77d0f
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-07T20:28:55+00:00'
+timestamp: '2024-01-05T08:28:05+00:00'
 requested_by: web-flow
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jimbrig/shiny_react_fluent_app
   detection_source: Repo Metadata
 - name: R Language
   description: A language and environment for statistical computing and graphics
@@ -24,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/jimbrig/shiny_react_fluent_app
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -33,4 +36,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jimbrig/shiny_react_fluent_app
   detection_source: Repo Metadata
